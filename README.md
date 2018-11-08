@@ -92,25 +92,25 @@ test();
 
 **Example object**
 ```js
-{ datetimeStart: 2018-11-08T13:25:09.009Z,
-  datetimeFinish: 2018-11-08T13:25:29.013Z,
+{ datetimeStart: '2018-11-08T13:25:09.009Z',
+  datetimeFinish: '2018-11-08T13:25:29.013Z',
   period: 12003,
   periodPauses: 8001,
   countPauses: 2,
   pauses:
-   [ { datetimeStart: 2018-11-08T13:25:19.010Z,
-       datetimeFinish: 2018-11-08T13:25:24.011Z,
+   [ { datetimeStart: '2018-11-08T13:25:19.010Z',
+       datetimeFinish: '2018-11-08T13:25:24.011Z',
        period: 5001 },
-     { datetimeStart: 2018-11-08T13:25:26.013Z,
-       datetimeFinish: 2018-11-08T13:25:29.013Z,
+     { datetimeStart: '2018-11-08T13:25:26.013Z',
+       datetimeFinish: '2018-11-08T13:25:29.013Z',
        period: 3000 } ],
   countRounds: 2,
   rounds:
-   [ { datetimeStart: 2018-11-08T13:25:09.009Z,
-       datetimeFinish: 2018-11-08T13:25:24.011Z,
+   [ { datetimeStart: '2018-11-08T13:25:09.009Z',
+       datetimeFinish: '2018-11-08T13:25:24.011Z',
        period: 10001 },
-     { datetimeStart: 2018-11-08T13:25:24.011Z,
-       datetimeFinish: 2018-11-08T13:25:29.013Z,
+     { datetimeStart: '2018-11-08T13:25:24.011Z',
+       datetimeFinish: '2018-11-08T13:25:29.013Z',
        period: 2002 } ],
   status: 'COMPLETED',
   statusList:
