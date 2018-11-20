@@ -1,7 +1,7 @@
 {
   "name": "jrfstopwatch",
   "version": "1.0.0",
-  "description": "Simple async/await stopwatch.",
+  "description": "async/await stopwatch.",
   "main": "jrfstopwatch.js",
   "scripts": {
     "test": "node ./tests/tests.js"
@@ -9,7 +9,8 @@
   "keywords": [
     "stopwatch",
     "time",
-    "period"
+    "period",
+    "jrf"
   ],
   "author": {
     "name": "jirufik",

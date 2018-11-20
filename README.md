@@ -1,6 +1,6 @@
 # jrfstopwatch
 
-**jrfstopwatch** is a simple **async/await** stopwatch.
+**jrfstopwatch** is a **async/await** stopwatch.
 
 ## Installation
 ```
